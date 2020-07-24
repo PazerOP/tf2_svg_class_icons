@@ -18,109 +18,19 @@
    viewBox="0 0 64 64"
    height="64"
    width="64">
+  <metadata
+     id="metadata282">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <defs
      id="defs841">
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="33,1.5"
-       end_point="33,62.25"
-       center_point="55,31.875"
-       id="path-effect2293"
-       is_visible="true"
-       lpeversion="1"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="true"
-       oposite_fuse="false"
-       split_items="false" />
-    <inkscape:path-effect
-       background_color="#ffffffff"
-       background="true"
-       hide_mask="false"
-       invert="false"
-       uri="#mask-powermask-path-effect2232"
-       lpeversion="1"
-       is_visible="true"
-       id="path-effect2232"
-       effect="powermask" />
-    <inkscape:path-effect
-       split_items="false"
-       oposite_fuse="false"
-       fuse_paths="true"
-       discard_orig_path="false"
-       mode="free"
-       lpeversion="1"
-       is_visible="true"
-       id="path-effect1485"
-       center_point="55,31.875"
-       end_point="33,62.25"
-       start_point="33,1.5"
-       effect="mirror_symmetry" />
-    <inkscape:path-effect
-       split_items="false"
-       oposite_fuse="false"
-       fuse_paths="true"
-       discard_orig_path="false"
-       mode="free"
-       lpeversion="1"
-       is_visible="true"
-       id="path-effect1482"
-       center_point="55,31.875"
-       end_point="33,62.25"
-       start_point="33,1.5"
-       effect="mirror_symmetry" />
-    <inkscape:path-effect
-       split_items="false"
-       oposite_fuse="false"
-       fuse_paths="true"
-       discard_orig_path="false"
-       mode="free"
-       lpeversion="1"
-       is_visible="true"
-       id="path-effect1477"
-       center_point="33,47.875"
-       end_point="33,54.25"
-       start_point="33,41.5"
-       effect="mirror_symmetry" />
-    <inkscape:path-effect
-       split_items="false"
-       oposite_fuse="false"
-       fuse_paths="true"
-       discard_orig_path="false"
-       mode="free"
-       lpeversion="1"
-       is_visible="true"
-       id="path-effect1472"
-       center_point="47.574834,28.009213"
-       end_point="33,34.02"
-       start_point="33,21.999206"
-       effect="mirror_symmetry" />
-    <inkscape:path-effect
-       split_items="false"
-       oposite_fuse="false"
-       fuse_paths="true"
-       discard_orig_path="false"
-       mode="free"
-       lpeversion="1"
-       is_visible="false"
-       id="path-effect1453"
-       center_point="33,27.857943"
-       end_point="33,34"
-       start_point="33,21"
-       effect="mirror_symmetry" />
-    <inkscape:path-effect
-       split_items="false"
-       oposite_fuse="false"
-       fuse_paths="true"
-       discard_orig_path="false"
-       mode="free"
-       lpeversion="1"
-       is_visible="true"
-       id="path-effect1443"
-       center_point="33,31.75"
-       end_point="33,62"
-       start_point="33,1.5"
-       effect="mirror_symmetry" />
     <clipPath
        id="clipPath5021"
        clipPathUnits="userSpaceOnUse">
@@ -159,9 +69,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="36.659125"
-     inkscape:cx="29.543058"
-     inkscape:zoom="22.627418"
+     inkscape:cy="15.203032"
+     inkscape:cx="30.709401"
+     inkscape:zoom="16.000001"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -205,18 +115,6 @@
        orientation="0,-1"
        position="-2,31" />
   </sodipodi:namedview>
-  <metadata
-     id="metadata844">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
   <g
      id="layer1"
      inkscape:groupmode="layer"
