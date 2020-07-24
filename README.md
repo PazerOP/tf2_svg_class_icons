@@ -1,8 +1,6 @@
 # SVG Versions of the TF2 Leaderboard Icons
 I got tired of staring at the beautiful class icons with awful DXT compression, so I traced these in Inkscape.
 
-Note: All major browsers get *something* wrong when rendering these. SVG is fun.
-
 <div align="center">
 	<a href="https://github.com/PazerOP/tf2_svg_class_icons/blob/master/svg/leaderboard_class_scout.svg">
 		<img src="https://raw.githubusercontent.com/PazerOP/tf2_svg_class_icons/master/svg/leaderboard_class_scout.svg">
